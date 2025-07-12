@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<meta charset="utf-8">
+<title>Política de privacidad • Volt</title>
+<body style="font-family:system-ui;max-width:700px;margin:2rem auto;line-height:1.5">
+<h1>Política de privacidad – Volt</h1>
+<p><strong>Última actualización:</strong> 11-jul-2025</p>
+<p>Volt es una aplicación interna que ayuda a publicar Reels en la página de Facebook e
+Instagram del negocio <em>Creadamente</em>. La aplicación:</p>
+<ul>
+  <li>No recopila información personal de los usuarios finales.</li>
+  <li>Solo accede a los permisos <code>pages_manage_posts</code>,
+      <code>pages_read_engagement</code>, <code>instagram_basic</code> y
+      <code>instagram_content_publish</code> para publicar contenido en nombre de la página.</li>
+  <li>No comparte datos con terceros.</li>
+  <li>Los administradores pueden revocar estos permisos en cualquier momento
+      desde la Configuración de la página o quitando la app.</li>
+</ul>
+<p>Si tienes dudas, escribe a <a href="mailto:tu-correo@ejemplo.com">tu-correo@ejemplo.com</a>.</p>
+</body>
+</html>
